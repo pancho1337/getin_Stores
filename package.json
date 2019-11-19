@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "bourbon": "^6.0.0",
+    "bulma": "^0.8.0",
     "css-loader": "^3.2.0",
     "node-sass": "^4.13.0",
     "postcss-loader": "^3.0.0",
