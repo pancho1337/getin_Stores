@@ -7,8 +7,8 @@ const table = props => (
 
     <table className="table">
       <Header />
-      <Footer />
       <Body />
+      <Footer />
     </table>
 );
 export default table;
